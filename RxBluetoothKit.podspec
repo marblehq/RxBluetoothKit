@@ -1,10 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = "RxBluetoothKit"
-<<<<<<< HEAD:RxBluetoothKit_Airthings.podspec
   s.version          = "6.2.0"
-=======
-  s.version          = "6.1.0"
->>>>>>> efb0e76aa5cfb7d58db25fd671957595ab50ab77:RxBluetoothKit.podspec
   s.summary          = "Bluetooth library for RxSwift"
 
   s.description      = <<-DESC
